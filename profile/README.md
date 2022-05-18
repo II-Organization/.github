@@ -1,9 +1,9 @@
-# II Organization
-II Organization is a small start-up made by students to create a new set of innovative software.
+# SoftwareSS
+SoftwareSS is a small start-up made by students to create a new set of innovative software.
 
-# II Games
-II Games is a small indie game studio 🎮
+# SoftwareSS Games
+SoftwareSS Games is a small indie game studio 🎮 <br>
 Our objective is to make simple but creative games 🎨
 
-# II Studios
-II studios is a small software development team with the objective to create innovative software for people around the world.
+# SoftwareSS Studio Programs
+SoftwareSS Studio Apps is a small software development team with the objective to create innovative software for people around the world ⌨
