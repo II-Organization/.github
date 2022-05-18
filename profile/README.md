@@ -6,4 +6,4 @@ SoftwareSS Games is a small indie game studio 🎮 <br>
 Our objective is to make simple but creative games 🎨
 
 # SoftwareSS Studio Programs
-SoftwareSS Studio Apps is a small software development team with the objective to create innovative software for people around the world ⌨
+SoftwareSS Studio Programs is a small software development team with the objective to create innovative software for people around the world ⌨
