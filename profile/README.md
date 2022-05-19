@@ -4,6 +4,6 @@
 SoftwareSS is a small start-up made by students to create a new set of innovative software.
 We are a small software development team with the objective to create creative software for people around the world ⌨
 
-# SoftwareSS Games
-SoftwareSS Games is a small indie game studio 🎮 <br>
+# II Games
+II Games is a small indie game studio under the SoftwareSS Company 🎮 <br>
 Our objective is to make simple but creative games 🎨
